@@ -1,1 +1,1 @@
-Kode is life
+Trodde dette var Figma
