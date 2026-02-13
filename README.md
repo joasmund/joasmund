@@ -10,7 +10,7 @@
 
 ---
 
-### 📚 Currently studying (Fall 2025)
+### 📚 Currently studying (Spring 2026)
 - **TEL211 – Robot Programming**  
 - **MATH220 – Mathematical Modelling**
 - **FYS235 – Electronics**  
