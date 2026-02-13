@@ -11,8 +11,9 @@
 ---
 
 ### 📚 Currently studying (Fall 2025)
-- **DAT300 – Applied Deep Learning**  
-- **STAT100 – Statistics**  
+- **TEL211 – Robot Programming**  
+- **MATH220 – Mathematical Modelling**
+- **FYS235 – Electronics**  
 
 ---
 
